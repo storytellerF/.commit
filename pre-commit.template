@@ -1,2 +1,2 @@
 #!/bin/sh
-sh .commit/pre-commit.sh
+sh .commit-hooks/pre-commit.sh
